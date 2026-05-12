@@ -3,7 +3,7 @@ import pepita.pepita
 describe "grupo de test para pepita" {
 
   test "pepita tiene energia inicial" {
-    assert.equals(100, pepita.energy())
+    assert.equals(100, pepita.energia())
   }
 
 }
